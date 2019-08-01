@@ -10,7 +10,7 @@ This library is suit to teach junior about programming skill. <br/>
 Google search may find this:<br/>
 https://www.codeproject.com/Articles/12279/Fast-Texas-Holdem-Hand-Evaluation-and-Analysis<br/>
 or this:<br/>
-https://github.com/NikolayIT/TexasHoldemGameEngine/blob/master/Source/TexasHoldem.Logic/Helpers/HandEvaluator.cs<br/>
+https://github.com/NikolayIT/TexasHoldemGameEngine<br/>
 <br/>
 it is nice if you just need a library to use, but it is not easy to read, especially the one on codeproject<br/>
 <br/>
