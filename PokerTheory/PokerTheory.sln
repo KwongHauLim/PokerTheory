@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerTheory", "PokerTheory\PokerTheory.csproj", "{77B2AEFF-CC40-45AB-936D-DCF07F0893C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedTest", "SpeedTest_WPF\SpeedTest.csproj", "{730B1374-6489-4677-8FF7-B00D2243ACCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77B2AEFF-CC40-45AB-936D-DCF07F0893C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B2AEFF-CC40-45AB-936D-DCF07F0893C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B2AEFF-CC40-45AB-936D-DCF07F0893C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B2AEFF-CC40-45AB-936D-DCF07F0893C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{730B1374-6489-4677-8FF7-B00D2243ACCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730B1374-6489-4677-8FF7-B00D2243ACCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730B1374-6489-4677-8FF7-B00D2243ACCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730B1374-6489-4677-8FF7-B00D2243ACCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
